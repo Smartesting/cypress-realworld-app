@@ -15,7 +15,7 @@
     "node": "^16.16.0"
   },
   "dependencies": {
-    "@smartesting/gravity-data-collector": "file:../gravity-data-collector",
+    "@smartesting/gravity-data-collector": "smartesting/gravity-data-collector#spike/cypress",
     "@auth0/auth0-react": "2.1.1",
     "@aws-amplify/ui-react": "1.2.26",
     "@graphql-tools/graphql-file-loader": "7.3.10",

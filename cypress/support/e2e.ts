@@ -2,7 +2,7 @@
 import "@cypress/code-coverage/support";
 import "./commands";
 import {isMobile} from "./utils";
-import GravityCollector from "@smartesting/gravity-data-collector/dist"
+import GravityCollector from '@smartesting/gravity-data-collector/dist'
 
 beforeEach(() => {
     // cy.intercept middleware to remove 'if-none-match' headers from all requests

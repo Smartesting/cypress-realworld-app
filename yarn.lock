@@ -4263,8 +4263,9 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@smartesting/gravity-data-collector@file:../gravity-data-collector":
+"@smartesting/gravity-data-collector@smartesting/gravity-data-collector#spike/cypress":
   version "3.8.7"
+  resolved "https://codeload.github.com/smartesting/gravity-data-collector/tar.gz/fe66c03f70ee343385550fcf689c1968813d7d96"
   dependencies:
     "@types/uuid" "^8.3.4"
     cross-fetch "^3.1.5"
